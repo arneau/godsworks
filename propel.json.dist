@@ -1,0 +1,8 @@
+{
+    "propel": {
+        "paths": {
+            "schemaDir": "\/Users\/arneau\/Documents\/gw\/project\/",
+            "phpDir": "\/Users\/arneau\/Documents\/gw\/project\/models\/"
+        }
+    }
+}

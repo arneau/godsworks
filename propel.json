@@ -1,0 +1,17 @@
+{
+	"propel": {
+		"database": {
+			"connections": {
+				"default": {
+					"adapter": "mysql",
+					"dsn": "mysql:host=127.0.0.1;dbname=gw",
+					"user": "root",
+					"password": "",
+					"settings": {
+						"charset": "utf8"
+					}
+				}
+			}
+		}
+	}
+}

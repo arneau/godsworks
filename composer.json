@@ -1,0 +1,13 @@
+{
+	"require": {
+		"propel/propel": "~2.0@dev"
+	},
+	"autoload": {
+		"classmap": [
+			"project/models/"
+		],
+		"files": [
+			"project/functions/functions.php"
+		]
+	}
+}
